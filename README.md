@@ -26,3 +26,31 @@ To exact changes made on single file:
 To stage the changes:
 
     git add <filename>
+
+To comit the changes
+
+     git commit -m "updated README.md file"
+
+To push the changes:
+
+    git push origin<sourceBranch>
+
+        class01-> main
+        git push origin class01
+### DAily
+
+To check main
+
+    git status
+
+To checkout main branch
+
+    git checkout main
+
+To get latest changes 
+
+    git pull origin main
+
+To create new branch
+
+    git checkout -b <NEW BRANCH NAME>
