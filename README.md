@@ -37,4 +37,20 @@ To push the changes:
 
         class01-> main
         git push origin class01
-        
+### DAily
+
+To check main
+
+    git status
+
+To checkout main branch
+
+    git checkout main
+
+To get latest changes 
+
+    git pull origin main
+
+To create new branch
+
+    git checkout -b <NEW BRANCH NAME>
